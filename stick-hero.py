@@ -12,6 +12,9 @@
 ## - Update Line 38 with respect to your screen resolution
 ## - Run Script
 
+## Credits to Engineer Man
+## https://www.youtube.com/watch?v=Du__JfXqsAs
+
 from ppadb.client import Client
 from PIL import Image
 import numpy
