@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 ## Requirements
+## - python3
 ## - adb tool
 ## - pure-python-adb is required
 
